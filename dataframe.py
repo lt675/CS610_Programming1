@@ -41,4 +41,5 @@ df_init['ServiceTime'] = service_times
 df_init[['CounterID','ArrivalStamp', 'ServiceStamp', 'FinishStamp',
         'TotalQTime']]= 0
 
-print(df_init)
+if __name__ == "__main__":
+    print(df_init)

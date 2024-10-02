@@ -97,3 +97,16 @@ class LinkedList:
 #         tot_queue_time=row['TotQueueTime']
 #     )
 #     linked_list.append(new_node)
+
+
+
+# routing = Tree()
+# routing.create_node("Arrival", "arrival", data = df_init)
+# routing.create_node("Counter 1", "counter1", parent="arrival")
+# routing.create_node("Counter 2", "counter2", parent="arrival")
+# routing.create_node("Counter 3", "counter3", parent="arrival")
+# routing.create_node("Counter 4", "counter4", parent="arrival")
+# routing.create_node("Counter 5", "counter5", parent="arrival")
+
+# print(routing)
+# print('arrival')
